@@ -37,19 +37,3 @@ options:
  ### Development by
 
 Developer / Author: [0xB14CKY](https://www.instagram.com/0xb14cky/)
-
-
-
-
-
-# 
-
-
-- Requirements
-```
- 
-```
-
-```
-
-```
