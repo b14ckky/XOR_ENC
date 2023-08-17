@@ -1,6 +1,11 @@
 # XOR_ENC
 Simple XOR Encryption
 
+- Requirements
+```
+pip install termcolor colorama 
+```
+
 ```
 Usage:
 
